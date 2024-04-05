@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 # 随机US节点
 cities=("atl" "bos" "den" "dfw" "ewr" "iad" "mia" "ord")
